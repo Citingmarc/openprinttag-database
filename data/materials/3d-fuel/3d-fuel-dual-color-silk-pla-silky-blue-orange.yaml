@@ -1,19 +1,18 @@
-uuid: 5c43de6d-bbae-58e3-b46f-1d4eece08e61
+uuid: b5d8c200-ff75-5727-baa6-f1b60f7c86e1
 slug: 3d-fuel-dual-color-silk-pla-silky-blue-orange
 brand:
   slug: 3d-fuel
-name: Dual-Color Silk PLA+, Silky Blue Orange
+name: Dual-Color Silks PLA+ non broken yaml?, Silky Blue Orange
 class: FFF
 type: PLA
 abbreviation: PLA
-secondary_colors:
-- color_rgba: '#f4ac23ff'
-- color_rgba: '#2e56f1ff'
+primary_color:
+  color_rgba: '#002a3aff'
 tags:
-- silk
 - industrially_compostable
 - coextruded
+- silk
+properties: {}
 photos:
 - url: https://files.openprinttag.org/3d-fuel/3d-fuel-dual-color-silk-pla-silky-blue-orange/025c08435301.jpg
   type: unspecified
-properties: {}

@@ -1,0 +1,8 @@
+uuid: 9c62c009-adaf-5ac8-9385-f8293e98d027
+slug: 3d-fuel-aas-testeroin-1kg
+class: FFF
+material:
+  slug: 3d-fuel-aas-testeroin
+nominal_netto_full_weight: 1000
+filament_diameter: 1750
+gtin: '8607499095948'

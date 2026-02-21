@@ -1,0 +1,12 @@
+uuid: 5aef11ff-815d-5f19-953a-94fc2c34bb74
+slug: 3dpower-testerinos
+brand:
+  slug: 3dpower
+name: testerinos
+class: FFF
+type: ABS
+abbreviation: ABS
+url: mfl.cat/yes
+primary_color:
+  color_rgba: '#5aeb90ff'
+properties: {}

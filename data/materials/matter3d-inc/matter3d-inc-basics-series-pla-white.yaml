@@ -8,7 +8,7 @@ type: PLA
 abbreviation: PLA
 url: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723038322865
 primary_color:
-  color_rgba: '#ffffffff'
+  color_rgba: '#efefefff'
 tags:
 - industrially_compostable
 properties: {}

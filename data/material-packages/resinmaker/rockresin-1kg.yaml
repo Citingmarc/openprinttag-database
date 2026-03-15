@@ -1,0 +1,6 @@
+uuid: ""
+slug: rockresin-1kg
+class: SLA
+material:
+  slug: rockresin
+nominal_netto_full_weight: 1000

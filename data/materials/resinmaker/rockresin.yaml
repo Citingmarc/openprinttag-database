@@ -1,0 +1,10 @@
+uuid: a194e273-ab02-5dcc-8059-dfb0cf3b8f80
+slug: rockresin
+brand:
+  slug: resinmaker
+name: RockResin
+class: SLA
+abbreviation: ROCKRES
+properties:
+  cure_wavelength: 405
+  viscosity_18c: 120
